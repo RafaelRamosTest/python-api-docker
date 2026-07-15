@@ -1,5 +1,3 @@
-Python API (Authors & Auth0)
-Esta é uma API desenvolvida em FastAPI para o gerenciamento de autores, protegida com autenticação e autorização ponta a ponta utilizando Auth0 (JWT via fluxo Machine-to-Machine / Client Credentials).
 
 # Python API (Authors & Auth0)
 
