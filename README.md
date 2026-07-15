@@ -1,5 +1,3 @@
-Aqui está o seu README.md reestruturado, focado exatamente no que você precisa: a estrutura de pastas do seu projeto FastAPI, as instruções de instalação das dependências a partir do arquivo requirements.txt e o passo a passo direto de como executar o projeto localmente.
-
 Python API (Authors & Auth0)
 Esta é uma API desenvolvida em FastAPI para o gerenciamento de autores, protegida com autenticação e autorização ponta a ponta utilizando Auth0 (JWT via fluxo Machine-to-Machine / Client Credentials).
 
