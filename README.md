@@ -1,10 +1,17 @@
 Python API (Authors & Auth0)
 Esta é uma API desenvolvida em FastAPI para o gerenciamento de autores, protegida com autenticação e autorização ponta a ponta utilizando Auth0 (JWT via fluxo Machine-to-Machine / Client Credentials).
 
-📂 Estrutura do Projeto
+# Python API (Authors & Auth0)
+
+Esta é uma API desenvolvida em **FastAPI** para o gerenciamento de autores, protegida com autenticação e autorização ponta a ponta utilizando **Auth0** (JWT via fluxo Machine-to-Machine / Client Credentials).
+
+---
+
+## 📂 Estrutura do Projeto
+
 Abaixo está o mapeamento dos principais arquivos e diretórios da API para facilitar a navegação pelo código:
 
-Plaintext
+```text
 python-api/
 │
 ├── app/
@@ -29,6 +36,7 @@ python-api/
 ├── .env                        # Credenciais de ambiente (não deve ser enviado ao Git)
 ├── .gitignore                  # Arquivos ignorados pelo Git (venv, .env, __pycache__)
 └── requirements.txt            # Dependências e bibliotecas do projeto
+
 🛠️ Pré-requisitos & Instalação
 Siga os passos abaixo no terminal do seu computador para configurar o seu ambiente de desenvolvimento.
 
